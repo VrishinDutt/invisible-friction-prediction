@@ -1,0 +1,12 @@
+,task_type,estimated_duration,deadline_pressure,time_of_day,energy_level,mood_level,task_familiarity,reward_clarity,consequence_severity,previous_delay_count,environment_noise,device_distraction,social_obligation,friction_score,friction_level
+count,20000,20000.0,20000,20000,20000.0,20000.0,20000,20000,20000.0,20000.0,20000,20000,20000,20000.0,20000
+unique,6,,3,4,,,2,3,,,3,3,4,,3
+top,academic,,low,evening,,,repeated,moderate,,,medium,medium,individual,,medium
+freq,5005,,8996,5986,,,13054,9096,,,8959,8924,8911,,10188
+mean,,62.79095,,,5.50545,5.49325,,,5.48775,3.47095,,,,40.5837795,
+std,,33.449575360564594,,,2.877913205209781,2.881903833576912,,,2.877058186879531,2.2853265047606803,,,,19.359238959396986,
+min,,5.0,,,1.0,1.0,,,1.0,0.0,,,,-37.63,
+25%,,34.0,,,3.0,3.0,,,3.0,1.0,,,,27.44,
+50%,,63.0,,,6.0,5.0,,,5.0,3.0,,,,40.55,
+75%,,92.0,,,8.0,8.0,,,8.0,5.0,,,,53.8425,
+max,,120.0,,,10.0,10.0,,,10.0,7.0,,,,114.59,

@@ -1,0 +1,17 @@
+sampling_method,model,accuracy,precision,recall,f1_score,model_error,confusion_matrix_file
+proportional_stratified,logistic_regression,0.7976,0.7977,0.7976,0.7966,0.2024,outputs/confusion_matrices/proportional_stratified_logistic_regression.csv
+simple_random,logistic_regression,0.797,0.7971,0.797,0.796,0.203,outputs/confusion_matrices/simple_random_logistic_regression.csv
+cluster,logistic_regression,0.7846,0.7877,0.7846,0.7848,0.2154,outputs/confusion_matrices/cluster_logistic_regression.csv
+balanced_stratified,logistic_regression,0.7676,0.7832,0.7676,0.7693,0.2324,outputs/confusion_matrices/balanced_stratified_logistic_regression.csv
+cluster,gradient_boosting,0.758,0.7751,0.758,0.7493,0.242,outputs/confusion_matrices/cluster_gradient_boosting.csv
+simple_random,gradient_boosting,0.7598,0.7718,0.7598,0.7471,0.2402,outputs/confusion_matrices/simple_random_gradient_boosting.csv
+cluster,random_forest,0.7526,0.7626,0.7526,0.7468,0.2474,outputs/confusion_matrices/cluster_random_forest.csv
+proportional_stratified,gradient_boosting,0.7562,0.7636,0.7562,0.7444,0.2438,outputs/confusion_matrices/proportional_stratified_gradient_boosting.csv
+simple_random,random_forest,0.747,0.7567,0.747,0.7344,0.253,outputs/confusion_matrices/simple_random_random_forest.csv
+proportional_stratified,random_forest,0.7446,0.7574,0.7446,0.7321,0.2554,outputs/confusion_matrices/proportional_stratified_random_forest.csv
+balanced_stratified,random_forest,0.7238,0.7366,0.7238,0.7243,0.2762,outputs/confusion_matrices/balanced_stratified_random_forest.csv
+balanced_stratified,gradient_boosting,0.7184,0.7431,0.7184,0.7193,0.2816,outputs/confusion_matrices/balanced_stratified_gradient_boosting.csv
+proportional_stratified,decision_tree,0.6304,0.6236,0.6304,0.6182,0.3696,outputs/confusion_matrices/proportional_stratified_decision_tree.csv
+simple_random,decision_tree,0.6344,0.6303,0.6344,0.6179,0.3656,outputs/confusion_matrices/simple_random_decision_tree.csv
+cluster,decision_tree,0.6334,0.6355,0.6334,0.6167,0.3666,outputs/confusion_matrices/cluster_decision_tree.csv
+balanced_stratified,decision_tree,0.563,0.6074,0.563,0.5747,0.437,outputs/confusion_matrices/balanced_stratified_decision_tree.csv
