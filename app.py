@@ -87,7 +87,7 @@ if st.button("Predict Friction"):
         "Probability": probabilities
     })
 
-    st.dataframe(prob_df, use_container_width=True)
+    st.dataframe(prob_df, width="stretch")
 
     st.write("### Likely Contributors")
 
