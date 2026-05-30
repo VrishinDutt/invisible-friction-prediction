@@ -12,7 +12,7 @@ Examples include replying to a message, paying a bill, starting an assignment, d
 
 This project calls that hidden resistance **Invisible Friction**.
 
-The central technical objective is not only to build a prediction model, but to study how different **sampling techniques** affect model error and inference quality.
+The central objective is not only to build a prediction model, but to study how different **sampling techniques** affect model error, inference quality, and behavioral representation.
 
 ---
 
@@ -63,7 +63,7 @@ The project separates **actual difficulty** from **perceived initiation resistan
 | Replying to an email | Low | High | Social pressure or uncertainty |
 | Paying a bill | Low | Medium/High | Consequence severity and avoidance |
 | Walking the dog | Medium | Low | Clear reward and familiar routine |
-| Starting an assignment | Medium | High | Deadline pressure and unclear start point |
+| Starting an assignment | Medium | High | Deadline pressure and unclear starting point |
 
 ---
 
